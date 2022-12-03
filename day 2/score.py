@@ -9,7 +9,7 @@ z = "Scissors"
 
 # Read every line of file.txt into a list of lines
 # The variable "lines" is a list of strings.
-with open("test.txt") as f:
+with open("day2.txt") as f:
     lines = f.readlines()
 
 # a/x = tie
